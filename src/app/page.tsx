@@ -128,7 +128,7 @@ const App: React.FC = () => {
                 Protect Your Database from MariaDB Injection Attacks
               </h2>
               <p className="text-xl mb-8">
-                Don't let cybercriminals drain your accounts. Learn how to
+                Don&apos;t let cybercriminals drain your accounts. Learn how to
                 secure your database against sophisticated injection attacks.
               </p>
               <Button className="!rounded-button bg-red-600 hover:bg-red-700 text-white px-8 py-6 text-lg cursor-pointer whitespace-nowrap">
@@ -220,7 +220,7 @@ const App: React.FC = () => {
               Financial Institution Attack
             </h3>
             <p className="text-gray-600 mb-4">
-              A regional bank's database breach led to $5M in fraudulent
+              A regional bank&apos;s database breach led to $5M in fraudulent
               transactions and affected over 10,000 customer accounts.
             </p>
             <Button className="!rounded-button bg-red-600 hover:bg-red-700 text-white cursor-pointer whitespace-nowrap">
